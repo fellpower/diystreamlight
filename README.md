@@ -19,6 +19,12 @@ Der Schaltplan ist demnach sehr einfach.
 
 ![DIY Streamlight](https://github.com/fellpower/diystreamlight/blob/main/schaltbild_pwm_diy_streamlicht.png)
 
+# Buck Converter
+
+Dieser hat leider einen Baufehler, weshalb ihr, wenn ihr einen Lötpunkt bei 3,3V setzt, nicht die vollen 3,3V bekommt. Um das zu fixen, einfach eine Leiterbahn durchtrennen und den Lötpunkt bei 3,3V setzen.
+
+![DIY Streamlight](https://github.com/fellpower/diystreamlight/blob/main/buck.png)
+
 
 
 
